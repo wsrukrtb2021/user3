@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\bin\Debug\BolshayaPachka.exe.config
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\bin\Debug\BolshayaPachka.exe
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\bin\Debug\BolshayaPachka.pdb
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\App.g.cs
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka_MarkupCompile.cache
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka_MarkupCompile.lref
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\Windows\MainWindow.baml
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.g.resources
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.Properties.Resources.resources
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.csproj.GenerateResource.cache
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.exe
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\BolshayaPachka.pdb
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\Use_conrols\UserControl1.g.cs
+C:\Users\1\source\repos\BolshayaPachka\BolshayaPachka\obj\Debug\Use_conrols\UserControl1.baml
